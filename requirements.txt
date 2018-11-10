@@ -1,0 +1,23 @@
+beautifulsoup4==4.6.3
+certifi==2018.10.15
+chardet==3.0.4
+Click==7.0
+fake-useragent==0.1.11
+Flask==1.0.2
+future==0.17.1
+--e git+https://github.com/abenassi/Google-Search-API
+idna==2.7
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.0
+multidict==4.4.2
+PyYAML==3.13
+requests==2.20.1
+selenium==2.53.6
+six==1.11.0
+Unidecode==1.0.22
+urllib3==1.24.1
+vcrpy==2.0.1
+Werkzeug==0.14.1
+wrapt==1.10.11
+yarl==1.2.6
